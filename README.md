@@ -1,4 +1,4 @@
-### 🔭Data Analyst
+### Data Analyst🔭
 
 ### 🤔Interest
 - Stock Market Prediction
