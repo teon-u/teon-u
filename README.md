@@ -1,16 +1,20 @@
-### Hi there 👋
+### 🔭Data Analyst
 
-<!--
-**teon-u/teon-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤔Interest
+- Stock Market Prediction
+- NLP(Natural Language Processing)
+- Presentation & Conversation
+- Finding company that builds a career even if I am immersed in work
+- Enjoy games & Airsoft for stress relief
 
-Here are some ideas to get you started:
+### ⚡I'm currently working on ...
+- Data Analysis for Public Institutions
+- Python(pandas, scickit-learn, usually pre-processing raw data)
+- Google Data Studio(Looker Studio), tableau for visualize data analysis
+- EyeT(Our company's non-code data analysys tool)
+- And lots of paper work using powerpoint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱Wanna see what I can do with Looker Studio?
+- https://lookerstudio.google.com/reporting/b03a6cba-460f-47bf-8d80-871d69065cb4
+- Preprocess raw data with python
+- Change it to time series data from original data(Car number listed as index)
