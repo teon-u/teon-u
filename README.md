@@ -3,7 +3,7 @@
 ### 🤔Interest
 - Stock Market Prediction
 - NLP(Natural Language Processing)
-- Productively using GPT-4
+- Use GPT-4 Productively
 - Presentation & Conversation
 - Enjoy Airsoft for stress relief
 
