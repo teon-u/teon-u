@@ -15,7 +15,7 @@
 
 ## ⚡ Currently Working On
 
-- **FiveForFree** — Quant trading project using NASDAQ volatility prediction
+- **Morgorithm-Analysis** — Quant project producing actionable market insights
 - **AI Product Sprint** — Building and launching multiple AI-assisted products in 2025-26
 - Experimenting with workflow automation (n8n, Claude, Notion, Discord integrations)
 
@@ -29,7 +29,7 @@
 | Data & ML | pandas, scikit-learn, LDA, preprocessing pipelines |
 | Visualization | Looker Studio, Tableau, QGIS |
 | Automation | n8n, Notion API, Claude API |
-| Mail | Whatever gets the job done (yes, including HWP and PPT) |
+| Others | Whatever gets the job done (yes, including HWP and PPT) |
 
 ---
 
@@ -47,7 +47,7 @@
 - Turning data into actual revenue (not just dashboards)
 - AI advancement & its side effects on society
 - Presentation & storytelling with data
-- 🔫 Airsoft — for stress relief, search me in Youtube : 에부
+- 🔫 Airsoft — for stress relief, YouTube: 에부 (Airsoft content)
 
 ---
 
